@@ -6,8 +6,8 @@
 <a href="https://dribbble.com/lrik" target="blank"><img align="center" src="https://www.svgrepo.com/show/343549/dribble-network-communication-internet-interaction.svg" alt="lrik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lrik" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="lrik" height="30" width="40" /></a>
 <a href="https://discord.com/users/927061241128681533" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="lrik" height="30" width="40" /></a>
-![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=blue)
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0167ef&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=black)
