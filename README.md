@@ -8,6 +8,5 @@
 <a href="https://discord.com/users/927061241128681533" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="lrik" height="30" width="40" /></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color_cover=false&bar_color=006eff)](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&redirect=true)
 ![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=000001)
