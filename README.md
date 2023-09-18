@@ -9,3 +9,6 @@
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0167ef&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=blue)
