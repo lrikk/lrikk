@@ -10,8 +10,8 @@
 <a href="https://discord.com/users/927061241128681533" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="lrik" height="30" width="40" /></a>
 </p>
 
-<!-- <a href="https://discord.com/users/927061241128681533" > -->
-   <img src="https://lanyard.kyrie25.me/api/927061241128681533?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+<!-- <a href="https://discord.com/users/313371644053684224" > -->
+   <img src="https://lanyard.kyrie25.me/api/313371644053684224?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 
 
 ![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=8a6a6a)
