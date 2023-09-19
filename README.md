@@ -10,4 +10,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color_cover=false&bar_color=006eff)](https://spotify-github-profile.vercel.app/api/view?uid=56wc9i40994rcx5a7y10durth&redirect=true)
 
-![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=F7CAC9)
+![](https://komarev.com/ghpvc/?username=dondastreet&style=plastic&color=9B2335)
