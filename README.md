@@ -14,4 +14,4 @@
    <img src="https://lanyard.kyrie25.me/api/313371644053684224?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 
 
-![](https://komarev.com/ghpvc/?username=yacq&style=plastic&color=8a6a6a)
+![](https://komarev.com/ghpvc/?username=yacqs&style=plastic&color=8a6a6a)
